@@ -83,3 +83,32 @@ button {
     border: none;
     padding: 6px 20px 6px 20px;
 }
+
+/* Second section */
+
+.second-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.second-section-content {
+    display: flex;
+    justify-content: center;
+}
+
+.second-section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+figcaption {
+    text-align: center;
+}
